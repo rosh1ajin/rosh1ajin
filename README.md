@@ -1,3 +1,5 @@
+<p>Hi there 👋 My name Daniil Makarov i'm a student of the direction management in technical systems. And also a beginner Frontend dev</p>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,ps,cpp" />
