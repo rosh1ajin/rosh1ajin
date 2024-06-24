@@ -15,4 +15,4 @@
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/lion.png" width="13%"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosh1ajin)](https://github.com/rosh1ajin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosh1ajin)](https://github.com/rosh1ajin/github-readme-stats)
