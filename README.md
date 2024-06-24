@@ -14,10 +14,6 @@
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/part.png" width="13%"/> 
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/lion.png" width="13%"/>
 </p>
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <p></p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosh1ajin)](https://github.com/rosh1ajin/github-readme-stats)<.p>
-  <p>![Stats](https://github-readme-stats.vercel.app/api?username=rosh1ajin&hide=contribs,prs)</p>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosh1ajin)](https://github.com/rosh1ajin/github-readme-stats)
 ![Stats](https://github-readme-stats.vercel.app/api?username=rosh1ajin&hide=contribs,prs)
