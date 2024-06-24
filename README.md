@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/recediviz1.png" width="15%"/>
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/sneakshop.png" width="15%"/>
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/game.png" width="15%"/> 
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/lago.png" width="15%"/> 
