@@ -6,11 +6,11 @@
 
 <h1 style="font-size: 24">As training<h1>
 <p align="center">
-  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/recediviz1.png" width="12%"/>
-  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/sneakshop.png" width="12%"/>
-  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/game.png" width="12%"/> 
-  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/lago.png" width="12%"/> 
-  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/evkl.png" width="12%"/> 
-  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/part.png" width="12%"/> 
-  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/lion.png" width="12%"/>
+  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/recediviz1.png" width="13%"/>
+  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/sneakshop.png" width="13%"/>
+  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/game.png" width="13%"/> 
+  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/lago.png" width="13%"/> 
+  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/evkl.png" width="13%"/> 
+  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/part.png" width="13%"/> 
+  <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/lion.png" width="13%"/>
 </p>
