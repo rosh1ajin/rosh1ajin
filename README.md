@@ -6,7 +6,10 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosh1ajin)](https://github.com/rosh1ajin/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=rosh1ajin&hide=contribs,prs)
 <h1>As training</h1>
+
 <p align="center">
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/recediviz1.png" width="13%"/>
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/sneakshop.png" width="13%"/>
@@ -16,7 +19,4 @@
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/part.png" width="13%"/> 
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/lion.png" width="13%"/>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosh1ajin)](https://github.com/rosh1ajin/github-readme-stats)
-![Stats](https://github-readme-stats.vercel.app/api?username=rosh1ajin&hide=contribs,prs)
 
