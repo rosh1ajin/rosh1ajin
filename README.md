@@ -14,8 +14,7 @@
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/part.png" width="13%"/> 
   <img src="https://github.com/rosh1ajin/rosh1ajin/blob/main/lion.png" width="13%"/>
 </p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosh1ajin)](https://github.com/rosh1ajin/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosh1ajin&hide=contribs,prs)
 
-<div style="display: flex; justify-content: center;">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosh1ajin)](https://github.com/rosh1ajin/github-readme-stats)
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosh1ajin&hide=contribs,prs)
-</div>
